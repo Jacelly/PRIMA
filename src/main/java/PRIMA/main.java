@@ -1,9 +1,9 @@
-package PRIMA_GRADLE;
+package PRIMA;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
  * Esta es la clase principal del programa de calculo de Prima.
- * @author JimmyCelly
+ * @author Jimmy Celly
  *
  */
 public class main {

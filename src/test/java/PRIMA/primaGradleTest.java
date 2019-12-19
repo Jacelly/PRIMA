@@ -1,4 +1,4 @@
-package PRIMA_GRADLE;
+package PRIMA;
 import org.junit.Test;
 /**
  * Pruebas Unitarias
@@ -122,6 +122,10 @@ public class primaGradleTest {
 	@Test
 	public void testPRIMA_CASO29() {
 		prima1.prima(71, 21);
+	}
+	@Test
+	public void testPRIMA_CASO30() {
+		prima1.prima('o', 'l');
 	}
 
 

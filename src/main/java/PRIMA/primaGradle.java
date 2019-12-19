@@ -1,11 +1,11 @@
-package PRIMA_GRADLE;
+package PRIMA;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
  * Esta es la clase, donde se hace el calculo del prima.
- * @author JimmyCelly
+ * @author Jimmy Celly
  *
  */
 public class primaGradle {
